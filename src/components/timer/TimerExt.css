@@ -1,0 +1,45 @@
+.timer-button {
+  float: left;
+  background-color: #0f3766;
+  border: none;
+  color: white;
+  padding: 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  font-size: 20px;
+  margin: 2px 1px;
+  border-radius: 5px;
+}
+
+.timer-button:hover {
+  background-color: aliceblue;
+  color: black;
+}
+
+.timer-button:focus {
+  outline: 0;
+}
+
+.timer-div {
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: #082342;
+}
+
+.timer {
+  width: 120px;
+}
+
+.timer td {
+  width: 25%;
+}
+
+td {
+  text-align: left;
+  padding: 0px;
+}
+
+p {
+  text-align: left;
+}
